@@ -70,6 +70,19 @@ background-color: #3D3325;
     align-items: center;
 }
 .TimeLine h2 {
-    font-size: 25px;
-    font-family: "Island";
+    font-size: 80px;
+    font-family: "Island Moments";
+    color: #ffffff;
+}
+
+.foto2 {
+    display: flex;
+    flex-direction: row-reverse;
+  
+   
+}
+.caixap {
+    background-color: #EFE5DE;
+    width: 50%;
+    height: 10%;
 }
