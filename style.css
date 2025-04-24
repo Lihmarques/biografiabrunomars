@@ -83,6 +83,14 @@ background-color: #3D3325;
 }
 .caixap {
     background-color: #EFE5DE;
-    width: 50%;
-    height: 10%;
+    width: 65%;
+    height: 50%;
+    display: flex;
+    padding: 40px;
+    border-radius: 20px;
+}
+
+.ano {
+    font-size: 20px;
+    
 }
